@@ -1,0 +1,104 @@
+body {
+    background: linear-gradient(90deg, #e0eafa, #d4dfed);
+  }
+.navbar{
+    background-color:#ff9999;
+}
+.body{
+    background-color:#fcffa4;
+}
+#contact{
+    background-color: #FFFACD;
+
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+#mynavbar ul li{
+	font-size: 21px;
+	font-weight: bold;	
+}
+ 
+ #mynavbar ul li a:hover {
+	color: #fff;
+	border-radius: 5px;
+	background: #DF2771;
+}
+#banner{
+	margin-top: 100px;
+}
+.row span a{
+	text-decoration: none !important;
+	font-weight: 600;
+	font-size: 30px;
+	color: #DF2771;
+}
+.row span a:hover{
+	border: 1px solid red;
+	border-radius: 15px;
+	background-color: #DF2771;
+	color: #fff;
+}
+
+table{
+    
+    text-align: center;
+    float: left;
+}
+table button{
+    background-color:aqua;
+}
+table button:hover{
+    background-color: #DF2771;
+    color: white;
+
+}
+table,tr,th,td{
+    border: 1px solid black !important;
+    
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+.trans{
+    text-align: center;
+    border-radius: 30px;
+    height:630px;
+}
+.txt{
+    
+    text-align:center;
+    margin: 12%;
+}
+table button{
+    border-radius: 15px;
+    text-align: center;
+}
+.btn button{
+    font-size: 36px;
+    margin-top: 50px;
+    width:100%;
+    height: 10%;
+    background-color: pink;
+    border-radius: 25px;
+}
+.btn button:hover{
+    background-color: #DF2771;
+    color: white;
+}
+
+#contact{
+    margin-top:10px;
+}
+#contact button{
+    background-color: aqua;
+    font-size:24px;
+    border-radius: 30px;
+}
+#contact button:hover{
+    background-color: #DF2771;
+    color: white;
+}
